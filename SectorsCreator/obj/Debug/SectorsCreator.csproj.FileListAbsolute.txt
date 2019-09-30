@@ -5,3 +5,10 @@ C:\Users\Sergii.Kropotov\source\repos\SectorsCreator\SectorsCreator\obj\Debug\Se
 C:\Users\Sergii.Kropotov\source\repos\SectorsCreator\SectorsCreator\obj\Debug\SectorsCreator.csproj.CoreCompileInputs.cache
 C:\Users\Sergii.Kropotov\source\repos\SectorsCreator\SectorsCreator\obj\Debug\SectorsCreator.exe
 C:\Users\Sergii.Kropotov\source\repos\SectorsCreator\SectorsCreator\obj\Debug\SectorsCreator.pdb
+C:\git\SectorsCreator\SectorsCreator\bin\Debug\SectorsCreator.exe.config
+C:\git\SectorsCreator\SectorsCreator\bin\Debug\SectorsCreator.exe
+C:\git\SectorsCreator\SectorsCreator\bin\Debug\SectorsCreator.pdb
+C:\git\SectorsCreator\SectorsCreator\obj\Debug\SectorsCreator.csprojAssemblyReference.cache
+C:\git\SectorsCreator\SectorsCreator\obj\Debug\SectorsCreator.csproj.CoreCompileInputs.cache
+C:\git\SectorsCreator\SectorsCreator\obj\Debug\SectorsCreator.exe
+C:\git\SectorsCreator\SectorsCreator\obj\Debug\SectorsCreator.pdb
