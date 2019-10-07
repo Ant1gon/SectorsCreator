@@ -62,7 +62,8 @@ namespace SectorsCreator
 
 		public string getCoordinates(Sector sector)
 		{
-			return string.Format("Lat: {0} Long: {1}//Lat: {2} Long: {3}", 
+			//return string.Format("Lat: {0} Long: {1} // Lat: {2} Long: {3}",
+			return string.Format("Start {0} {1} || End {2} {3}",
 				sector.start_latitude.ToString("N6"),
 				sector.start_longitude.ToString("N6"),
 				sector.end_latitude.ToString("N6"),
