@@ -12,6 +12,15 @@ namespace SectorsCreator
 	{
 		static void Main(string[] args)
 		{
+			double a = 11.23456789;
+			Console.WriteLine(a.ToString("0.00"));
+			Console.WriteLine(a.ToString("0.000"));
+			Console.WriteLine(a.ToString("0.0000"));
+			Console.WriteLine(a.ToString("0.00000"));
+			Console.ReadLine();
+
+
+
 			string _SEPARATOR = "****************************";
 			double.TryParse(ConfigurationManager.AppSettings.Get("start_latitude").Trim().Replace(".",","), out double start_lat);
 			double.TryParse(ConfigurationManager.AppSettings.Get("start_longitude").Trim().Replace(".", ","), out double start_long);
